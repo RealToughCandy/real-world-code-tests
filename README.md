@@ -1,4 +1,4 @@
-# real-world-code-tests
+# take-home-code-tests
 A collection of "take-home" code tests as submitted by interviewees. 
 
 What coding challenge were you taksed with? 
